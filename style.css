@@ -189,7 +189,7 @@ li {
 
 @media(min-width:768px) {
   .card {
-    max-width: 30rem;
+    max-width: 35rem;
   }
 
   .text-container {
@@ -197,11 +197,7 @@ li {
   }
 
   .text-container .disc{
-    font-size: 1.45rem;
-  }
-
-  li {
-    font-size: 1.3rem;
+    font-size: 1.8rem;
   }
 
   .text-container .line{
